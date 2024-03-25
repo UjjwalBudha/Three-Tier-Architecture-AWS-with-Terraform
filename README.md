@@ -4,7 +4,7 @@
 
 Terraform is an open-source infrastructure as a code (IAC) tool that allows to create, manage & deploy the production-ready environment. Terraform codifies cloud APIs into declarative configuration files. Terraform can manage both existing service providers and custom in-house solutions.
 
-![Three tire Architecture](2.png)
+![Three tire Architecture](Architecture.gif)
 
 
 > In this project, I have used some variables also that I will discuss later in this article.
@@ -412,5 +412,7 @@ So, now our entire code is ready. We need to run the below steps to create infra
 Once the resource creation finishes you can get the DNS of a load balancer and paste it into the browser and you can see load balancer will send the request to two instances.
 
 That’s it now, you have learned how to create various resources in AWS using Terraform.
+
+![Three tire Architecture](2.png)
 
  
