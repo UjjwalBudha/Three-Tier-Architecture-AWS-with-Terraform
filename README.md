@@ -7,8 +7,6 @@ Terraform is an open-source infrastructure as a code (IAC) tool that allows to c
 ![Three tire Architecture](Architecture.gif)
 
 
-> In this project, I have used some variables also that I will discuss later in this article.
-
 **Step 1:- Create a file for the VPC**
 
 * Create vpc.tf file and add the below code to it
